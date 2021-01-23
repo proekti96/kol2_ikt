@@ -2,7 +2,6 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python>=3.6.0
   - numpy
   - plotly
   - psutil
@@ -14,8 +13,3 @@ dependencies:
   - bokeh
   - dask
   - pip
-  - pip:
-      - feather-format
-      - julia
-      - sos
-      - sos-notebook
