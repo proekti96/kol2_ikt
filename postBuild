@@ -1,1 +1,1 @@
-python3 -m sos_notebook.install
+python2 -m sos_notebook.install
