@@ -1,4 +1,4 @@
-pandas==1.0.1
+pandas
 numpy
 folium
 matplotlib==3.2.0
