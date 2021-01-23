@@ -12,3 +12,9 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - pip
+  - pip:
+      - feather-format
+      - julia
+      - sos
+      - sos-notebook
